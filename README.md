@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **cp, software engineering**
 
-- 👨‍💻 All of my projects are available at [https://shadikmahmud.blogspot.com/](https://shadikmahmud.blogspot.com/)
+- 👨‍💻 All of my projects are available at <a href = "https://shadikmahmud.blogspot.com/">SHADIK</a> and <a href = "https://www.techtrickbangla.com">Tech Trick Bangla</a>
+
+- 📝 I regularly write articles on [https://www.techtrickbangla.com/](https://www.techtrickbangla.com/)
 
 - 💬 Ask me about **C++, Java, Android**
 
