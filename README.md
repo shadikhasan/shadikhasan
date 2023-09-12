@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadikhasan&label=Profile%20views&color=0e75b6&style=flat" alt="shadikhasan" /> </p>
 
-- 🔭 I’m currently working on **Competitive Programming**
+- 🔭 I’m currently working on **Logic Building with C++**
 
 - 🌱 I’m currently learning **cp, software engineering**
 
