@@ -1,7 +1,8 @@
 ![MasterHead](https://github.com/shadikhasan/shadikhasan/assets/48581997/c9ef20d5-e342-4691-9dee-2a832c4e4424)
 <h1 align="center">Hi 👋, I'm SHADIK</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/shadikhasan/shadikhasan/assets/48581997/fdec88fb-2503-43b2-bf28-f55f032ad6f8">
+<img align="right" alt="Coding" width="400" src="https://github.com/shadikhasan/shadikhasan/assets/48581997/071f0df4-1ceb-4235-ae0b-b9f3310abfe9">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadikhasan&label=Profile%20views&color=0e75b6&style=flat" alt="shadikhasan" /> </p>
 
