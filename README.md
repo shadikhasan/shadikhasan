@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shadikmahmud.blogspot.com/](https://shadikmahmud.blogspot.com/)
 
-- 💬 Ask me about **Java, Android**
+- 💬 Ask me about **Java, C++, Android**
 
 - 📫 How to reach me **https://www.facebook.com/shadik.mahmud.01/**
 
