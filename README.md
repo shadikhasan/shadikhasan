@@ -13,13 +13,11 @@
 
 - 🌱 I’m currently learning **cp, software engineering**
 
-- 👨‍💻 All of my projects are available at <a href = "https://shadikmahmud.blogspot.com/">SHADIK</a> and <a href = "https://www.techtrickbangla.com">Tech Trick Bangla</a>
+- 👨‍💻 All of my projects are available at <a href = "https://shadikmahmud.blogspot.com/">Here</a>
 
-- 📝 I regularly write articles on [https://www.techtrickbangla.com/](https://www.techtrickbangla.com/)
+- 📝 I regularly write articles on [www.techtrickbangla.com](https://www.techtrickbangla.com/)
 
 - 💬 Ask me about **C++, Java, Android**
-
-- 📫 How to reach me **https://www.facebook.com/shadik.mahmud.01/**
 
 - ⚡ Fun fact **I think I am funny😁**
 
