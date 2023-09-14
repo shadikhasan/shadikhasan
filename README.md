@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **cp, software engineering**
 
-- 👨‍💻 All of my projects are available at <a href = "https://shadikmahmud.blogspot.com/">Here</a>
+- 👨‍💻 All of my projects are available <a href = "https://shadikmahmud.blogspot.com/">Here</a>
 
 - 📝 I regularly write articles on [www.techtrickbangla.com](https://www.techtrickbangla.com/)
 
