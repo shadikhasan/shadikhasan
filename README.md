@@ -20,23 +20,7 @@
 - 💬 Ask me about **C++, Java, Android**
 
 - ⚡ Fun fact **I think I am funny😁**
-<style>
-    .languages-tools {
-        display: grid;
-        grid-template-columns: repeat(10, 1fr);
-        gap: 10px;
-        justify-items: center;
-        align-items: center;
-    }
-
-    .languages-tools a {
-        transition: transform 0.3s ease;
-    }
-
-    .languages-tools a:hover {
-        transform: scale(1.1);
-    }
-</style>
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shadik-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadik-hasan" height="30" width="40" /></a>
