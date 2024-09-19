@@ -3,7 +3,7 @@
     <img alt="Coding"  width="800" height="300" src="https://github.com/shadikhasan/shadikhasan/assets/48581997/c9ef20d5-e342-4691-9dee-2a832c4e4424">
 </p>
 <h1 align="center">Hi 👋, I'm SHADIK</h1>
-<h3 align="center">A passionate Programmer from Bangladesh</h3>
+<h3 align="center">A passionate Programmer, Developer, Founder</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/shadikhasan/shadikhasan/assets/48581997/071f0df4-1ceb-4235-ae0b-b9f3310abfe9">
 
 
