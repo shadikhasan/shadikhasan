@@ -5,7 +5,12 @@
 <h1 align="center">Hi 👋, This is SHADIK</h1>
 <h3 align="center">A passionate Programmer, Developer, Founder</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2A5AC3&background=4497FF00&width=300&height=100&lines=Backend+Expert;Django+Expert;React+Application;Django+Rest+Framework)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2A5AC3&background=4497FF00&center=true&width=700&height=60&lines=Backend+Expert;Django+Expert)](https://git.io/typing-svg)
+
+</div>
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/shadikhasan/shadikhasan/assets/48581997/071f0df4-1ceb-4235-ae0b-b9f3310abfe9">
 
