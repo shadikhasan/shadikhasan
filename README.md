@@ -2,10 +2,12 @@
 <p align="center">
     <img alt="Coding"  width="800" height="300" src="https://github.com/shadikhasan/shadikhasan/assets/48581997/c9ef20d5-e342-4691-9dee-2a832c4e4424">
 </p>
-<h1 align="center">Hi 👋, I'm SHADIK</h1>
+<h1 align="center">Hi 👋, This is SHADIK</h1>
 <h3 align="center">A passionate Programmer, Developer, Founder</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/shadikhasan/shadikhasan/assets/48581997/071f0df4-1ceb-4235-ae0b-b9f3310abfe9">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2A5AC3&background=4497FF00&width=300&height=100&lines=Backend+Expert;Django+Expert;React+Application;Django+Rest+Framework)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="400" src="https://github.com/shadikhasan/shadikhasan/assets/48581997/071f0df4-1ceb-4235-ae0b-b9f3310abfe9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadikhasan&label=Profile%20views&color=0e75b6&style=flat" alt="shadikhasan" /> </p>
 
