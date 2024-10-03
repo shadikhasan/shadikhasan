@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **cp, software engineering**
 
-- 👨‍💻 All of my projects are available <a href = "https://portfolio-shadik.vercel.app/">Here</a>
+- 👨‍💻 All of my projects are available <a href = "https://portfolio-shadik.vercel.app/" target="_blank">Here</a>
 
 - 📝 I regularly write articles on [www.techtrickbangla.com](https://www.techtrickbangla.com/)
 
